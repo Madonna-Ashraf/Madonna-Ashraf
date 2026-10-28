@@ -1,41 +1,54 @@
-<div align="center" width="50">
+# Hi 👋, I'm Madonna Ashraf
 
-<h2>Hi 👋, I'm Madonna Ashraf</h2>
-<h4>AI & Data Analysis Student | Computer Science</h4>
+### Computer Science Student | AI & Machine Learning Enthusiast
 
-</div>
+I'm a Computer Science student passionate about building practical solutions through **Artificial Intelligence, Machine Learning, and Software Development**.
 
----
-
-### 👩‍💻 About Me
-
-* 🎓 Computer Science student (Level 3)
-* 🤖 Learning **Artificial Intelligence** & **Data Analysis**
-* 📊 Interested in **Machine Learning, Data Preprocessing, and Visualization**
-* 💡 I like solving real-world problems using technology
-* 🌱 Currently building projects to prepare for **freelancing & professional AI roles**
+- 🎓 Studying Computer Science at Badr University in Assiut
+- 🤖 Exploring Machine Learning, Deep Learning, and AI applications
+- 💻 Developing web applications using React and modern frontend technologies
+- 📊 Interested in data preprocessing, model training, and data visualization
+- 🚀 Building projects to strengthen my technical skills and solve real-world problems
+- 🌱 Continuously learning, experimenting, and improving through hands-on projects
 
 ---
+
+### 🛠️ Technologies & Tools
+
+**Programming Languages**
+- Python, JavaScript, TypeScript
+
+**AI & Data Science**
+- NumPy, Pandas, Scikit-learn, PyTorch
+- Data Preprocessing, Machine Learning, Deep Learning
+
+**Frontend Development**
+- HTML, CSS, React.js
+
+**Tools & Platforms**
+- Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
 ### 📌 What I'm Working On
 
-* 🔹 Data preprocessing & cleaning projects
-* 🔹 Supervised learning models
-* 🔹 AI & data projects for GitHub & LinkedIn
+- 🤖 Implementing AI and Machine Learning projects
+- 🧠 Exploring Deep Learning and Reinforcement Learning
+- 💻 Building interactive web applications with React
+- 📚 Strengthening my problem-solving and software engineering skills
+
+---
+
+### 📈 My GitHub Journey
+
+I believe in learning by building, solving problems, and consistently improving my code.
+
+**Code • Learn • Build • Improve • Repeat** 🚀
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" />
-
-<br>
-<strong>Code • Learn • Improve • Repeat</strong>
+*"Every project is an opportunity to learn something new."*
 
 </div>
